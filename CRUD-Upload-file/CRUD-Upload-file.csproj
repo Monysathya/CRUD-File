@@ -274,6 +274,7 @@
     <Content Include="Views\Support\Create.cshtml" />
     <Content Include="Views\Support\Edit.cshtml" />
     <Content Include="Views\Support\Index.cshtml" />
+    <Content Include="Views\Support\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\Upload\" />
